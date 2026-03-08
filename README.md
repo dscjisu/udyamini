@@ -33,7 +33,7 @@ Discover practical strategies for entering the AI/ML field, building strong skil
 **Duration:** 2.5 Hours  
 
 🔗 **Joining Link:**  
-https://meet.google.com/wwd-znwb-npa 
+~https://meet.google.com/wwd-znwb-npa~ [EXPIRED]
 
 ---
 
