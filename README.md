@@ -6,6 +6,8 @@ We are here from the **CSE Department of JIS University** along with the **Googl
 
 This will be a **2.5 hour interactive chill session** focused on **career development, open source, AI/ML opportunities, and goal planning** — *Udyamini*.
 
+<img width="2560" height="640" alt="image" src="https://github.com/user-attachments/assets/a652b036-0585-449f-97c7-472f735f15ac" />
+
 ---
 
 ## 🎤 Featured Speakers
