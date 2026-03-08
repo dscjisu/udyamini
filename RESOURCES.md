@@ -2,7 +2,7 @@
 
 > This file contains the  dump of all the URLs that can help you understand Agentic AI and Open Source Contributions
 
-- **PPT SHARED BY ANWESHA CHAKRABORTY**: - 
+- **PPT SHARED BY ANWESHA CHAKRABORTY**:- https://drive.google.com/drive/folders/1ws7nJUXjCxcUc7zp6sWm35biathzHo5J?usp=sharing
 - **RESOURCES SHARED BY KHUSHI YADAV**:- https://drive.google.com/drive/folders/1ws7nJUXjCxcUc7zp6sWm35biathzHo5J?usp=sharing
 - **COOL RECORDING AND SCREENSHOTS DURING THE EVENT**:- https://drive.google.com/drive/folders/1bZhVqoJHlWGQp8M7IygE3ldeSyrhYbr-?usp=sharing
 - **VIDEO RECORDINGS CREATED DURING THE SESSION**:- https://drive.google.com/drive/folders/1oqZ6Bq5Og2GqPecSI95BffNlA2Edn6fD?usp=sharing
